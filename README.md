@@ -22,6 +22,28 @@ Switch between combat, traversal, and puzzle-solving — the umbrella isn’t ju
 <img src="https://github.com/user-attachments/assets/8d223ce6-e1df-46c6-a53f-65ac19cfe8fe" width="400">
 <img src="https://github.com/user-attachments/assets/f140a235-c668-46b4-8b40-988defa0bb5a" width="400">
 
+### 💼 My Role & Contributions
+---
+
+As part of the **Lady Umbrella** development team at Zulo Interactive, I worked primarily as a **Gameplay Programmer**, focusing on systems that enhance player movement, enemy behavior, and animation integration.
+
+My main contributions include:
+
+- **Traversal System:**  
+  Designed and implemented the game's traversal mechanics, including vaulting, vault + kick, ledge climbing, rope swinging, and bar swinging.  
+  Utilized Unreal Engine's **Motion Warping plugin** to achieve precise root motion alignment and smooth transitions between traversal states.
+
+- **AI Design & Development:**  
+  Collaborated on the design and implementation of AI for both the Mafia and Agency factions.  
+  Developed complex behaviors using **Behavior Trees** and **Environment Query System (EQS)** to enable dynamic decision-making and adaptable combat scenarios.
+
+- **Animation Integration:**  
+  Integrated and fine-tuned all gameplay animations, ensuring proper synchronization between state machines, root motion, and gameplay logic.  
+  Worked closely with the animation team, iterating on movement and combat animations to ensure gameplay responsiveness and consistency across traversal systems.
+
+These systems formed the foundation for Lady Umbrella’s responsive combat and fluid traversal experience, contributing directly to the game’s core gameplay feel.
+
+
 ### 🛠️ Implementation details
 ---
 
@@ -116,9 +138,7 @@ This project was made in Unreal Engine 5.5.3, using C++ exclusively, except for 
 
 There are, of course, more systems that haven't been mentioned yet, but are equally important, such as:
 
-- AI – Implemented using behaviour trees to dynamically change the way enemies interact with the player.
 - Camera System – A custom camera was required since increasing control for navigation and traversal is essential for the game.
-- Interactive Movement – Geometry-based motion to increase agility by allowing vaulting, mantling, swinging...
 - FMOD – Wide range of sounds in the game called for useage of this external tool that allowed for greater flexibility in sound design.
 
 ### 🤝 Acknowledgements
