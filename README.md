@@ -32,6 +32,13 @@ My main contributions include:
 - **Traversal System:**  
   Designed and implemented the game's traversal mechanics, including vaulting, vault + kick, ledge climbing, rope swinging, and bar swinging.  
   Utilized Unreal Engine's **Motion Warping plugin** to achieve precise root motion alignment and smooth transitions between traversal states.
+  
+![Climb_Ledge](https://github.com/user-attachments/assets/d71ae10a-63cf-40c0-8962-263161e0ef56)
+![LongVault](https://github.com/user-attachments/assets/971f1d11-0d85-4af9-bc3f-ce56d0ff2ee5)
+![ShortVault](https://github.com/user-attachments/assets/e7ab76fb-2855-4039-b091-429f69cc4236)
+![SwingBar](https://github.com/user-attachments/assets/cb6fd672-d34a-41a9-8719-2aa1022edf24)
+![SwingRope](https://github.com/user-attachments/assets/2086ba54-9896-40c2-b531-7329ace1c096)
+
 
 - **AI Design & Development:**  
   Collaborated on the design and implementation of AI for both the Mafia and Agency factions.  
@@ -41,7 +48,7 @@ My main contributions include:
   Integrated and fine-tuned all gameplay animations, ensuring proper synchronization between state machines, root motion, and gameplay logic.  
   Worked closely with the animation team, iterating on movement and combat animations to ensure gameplay responsiveness and consistency across traversal systems.
 
-These systems formed the foundation for Lady Umbrella’s responsive combat and fluid traversal experience, contributing directly to the game’s core gameplay feel.
+These systems formed the foundation for Lady Umbrella’s fluid traversal experience and responsive combat, contributing directly to the game’s core gameplay feel.
 
 
 ### 🛠️ Implementation details
